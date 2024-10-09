@@ -3,6 +3,11 @@
     <string name="title">Presensi</string>
     <string name="submit">Submit</string>
     <string name="keterangan">Keterangan</string>
+    <string-array name="daftarket">
+        <item>Hadir Tepat Waktu</item>
+        <item>Terlambat</item>
+        <item>Izin</item>
+    </string-array>
     <array name="month">
         <item>Januari</item>
         <item>Februari</item>
